@@ -224,6 +224,7 @@ psql -U postgres -d p1_retail_db -f Retail_sales_1st.sql
 ## 🙋‍♂️ Author
 
 **Manish Bairwa**  
+    [Mail](mannu71652@gmail.com)
 🐙 [GitHub](https://github.com/ManishBairwa09)
 
 ---
